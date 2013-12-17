@@ -1,3 +1,3 @@
 #!/bin/bash
-#test
-echo "Hello Mark"
+#ne tak
+foo "Hello Andrey"
